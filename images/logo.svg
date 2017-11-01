@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 215">
-<style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86 79">
+  <style>
   .a{
     fill:none;
     stroke-linecap:round;
@@ -8,8 +8,8 @@
     stroke:#fff;
   }
 </style>
-    <path d="m127 71h30" class="a"/>
-    <path d="M114 110V58h54v37h-38z" class="a"/>
-    <path d="m127 81h30" class="a"/>
-    <path d="M114 48V36h81v74l-18-16" class="a"/>
+  <path d="m15.5,37.5h30" class="a"/>
+  <path d="m2.5,76.5v-52h54v37h-38z" class="a"/>
+  <path d="m15.5,47.5h30" class="a"/>
+  <path d="m2.5,14.5v-12h81v74l-18,-16" class="a"/>
 </svg>
