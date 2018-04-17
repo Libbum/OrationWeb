@@ -100,7 +100,7 @@
 /* Banner */
 #banner {
     @include vendor('background-image', (
-    'url("/images/banner.jpg")'
+    'url("images/banner.jpg")'
     ));
 
     &:after {
@@ -112,7 +112,7 @@
 /* Footer */
 #footer {
     @include vendor('background-image', (
-    'url("/images/banner.jpg")'
+    'url("images/banner.jpg")'
     ));
     position: relative;
 
